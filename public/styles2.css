@@ -7,7 +7,7 @@ body {
   margin: 0;
 }
 .full_app {
-  min-height: 700px;
+  min-height: 100vh;
 }
 .header_div {
   background-color: #ff8989;
